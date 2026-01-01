@@ -1,0 +1,23 @@
+git config -- user.name "deeptibaliya" //git mai username store krne ke liye
+git config --user.email "abc@email.com"
+git config --list //lisiting ur details
+
+
+clone command => git clone <-link-> //https wali link from the code
+ls -a //for hidden files
+
+
+git push origin matching
+git commit -m "matching"
+git add js/git.csv
+clear
+git ls -a
+git status   //tracking files untracked, unmodified(normal state), modified, staged (we will make it again unmodified by commit)
+
+=>commit is a 2 step process.. first add then commit
+
+ls
+git add index.html
+
+
+init ......... used to creat new repo
