@@ -17,7 +17,7 @@ git status   //tracking files untracked, unmodified(normal state), modified, sta
 =>commit is a 2 step process.. first add then commit
 
 ls
-git add index.html
-
+git add index.html or we can do git add . (for adding all the files altogether)
+git commit -m "msg"  
 
 init ......... used to creat new repo
